@@ -6,13 +6,14 @@ Bu proje, **Python** ve **Turtle** kütüphanesi kullanılarak geliştirilmiş k
 - **Turtle Graphics** kullanılarak oluşturulmuş basit ve eğlenceli bir arayüz
 - **Ok tuşlarıyla kontrol** edilen yılan hareketi
 - **Puan sistemi** (yem yedikçe büyüme ve skor artışı)
+- **Can sayacı** (Ekstra can veren özel yemler)
 - **Duvara veya kendine çarpınca oyunun bitmesi**
 
 ## 🛠 Kurulum
 
 1. Projeyi klonla:
    ```sh
-   git clone https://github.com/kullanici-adin/snake-game.git
+   git clone https://github.com/zeynepsudedemir/Snake.git
    ```
 2. Proje klasörüne gir:
    ```sh
@@ -29,8 +30,6 @@ Bu proje, **Python** ve **Turtle** kütüphanesi kullanılarak geliştirilmiş k
 - **Sağ Ok (➡️)** → Sağa git
 - **Sol Ok (⬅️)** → Sola git
 
-## 📄 Lisans
-Bu proje **MIT Lisansı** ile lisanslanmıştır.
 
 ---
 🎉 İyi eğlenceler! 🚀
