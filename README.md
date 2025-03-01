@@ -1,2 +1,37 @@
-# Snake
-Game
+# 🐍 Yılan Oyunu
+
+Bu proje, **Python** ve **Turtle** kütüphanesi kullanılarak geliştirilmiş klasik **Yılan Oyunu**dur. Oyuncunun amacı, yılanı yönlendirerek yemi yemesini sağlamak ve en yüksek puanı elde etmektir.
+
+## 📌 Özellikler
+- **Turtle Graphics** kullanılarak oluşturulmuş basit ve eğlenceli bir arayüz
+- **Ok tuşlarıyla kontrol** edilen yılan hareketi
+- **Puan sistemi** (yem yedikçe büyüme ve skor artışı)
+- **Duvara veya kendine çarpınca oyunun bitmesi**
+
+## 🛠 Kurulum
+
+1. Projeyi klonla:
+   ```sh
+   git clone https://github.com/kullanici-adin/snake-game.git
+   ```
+2. Proje klasörüne gir:
+   ```sh
+   cd snake-game
+   ```
+3. Oyunu başlat:
+   ```sh
+   python snake.py
+   ```
+
+## 🎮 Kontroller
+- **Yukarı Ok (⬆️)** → Yukarı git
+- **Aşağı Ok (⬇️)** → Aşağı git
+- **Sağ Ok (➡️)** → Sağa git
+- **Sol Ok (⬅️)** → Sola git
+
+## 📄 Lisans
+Bu proje **MIT Lisansı** ile lisanslanmıştır.
+
+---
+🎉 İyi eğlenceler! 🚀
+
