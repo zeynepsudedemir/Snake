@@ -17,11 +17,11 @@ Bu proje, **Python** ve **Turtle** kütüphanesi kullanılarak geliştirilmiş k
    ```
 2. Proje klasörüne gir:
    ```sh
-   cd snake-game
+   cd Snake
    ```
 3. Oyunu başlat:
    ```sh
-   python snake.py
+   python yilan.py
    ```
 
 ## 🎮 Kontroller
